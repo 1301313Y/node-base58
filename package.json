@@ -1,7 +1,7 @@
 {
-  "name": "base58-native",
+  "name": "base58-native-x",
   "description": "An Implementation of Base58 and Base58Check encoding using bignum library.",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "author": {
     "name": "Satoshi Nakamoto",
     "email": "satoshin@gmx.com"
@@ -21,7 +21,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/gasteve/node-base58.git"
+    "url": "http://github.com/xanatas/node-base58.git"
   },
   "scripts": {
     "test": "mocha"
