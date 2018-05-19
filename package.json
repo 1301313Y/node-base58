@@ -27,7 +27,7 @@
     "test": "mocha"
   },
   "dependencies": {
-    "bignum": "0.12.5"
+    "bignum": "git://github.com/1301313Y/node-bignum.git"
   },
   "devDependencies": {
     "mocha": ">1.0.0"
