@@ -1,5 +1,5 @@
 {
-  "name": "base58-native-x",
+  "name": "base58-native",
   "description": "An Implementation of Base58 and Base58Check encoding using bignum library.",
   "version": "0.1.6",
   "author": {
